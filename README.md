@@ -2,7 +2,7 @@
 
 - [Github](https://github.com/a3510377)
 - 🔭 I’m currently learning `Basic Electricity` school...
-- 💼 student? (Second-year vocational college electronics department)
+- 💼 student? (third grade vocational college electronics department)
 
 ## 🛠 Tech Stack
 <!-- 
